@@ -51,7 +51,7 @@ class OrderResource extends Resource
                             ->required(),
                         Select::make('payment_method')
                             ->options([
-                                'stripe' => 'Stripe',
+                                'paystack' => 'PayStack',
                                 'code' => 'Cash on Delivery',
                             ])
                             ->required(),
@@ -93,7 +93,7 @@ class OrderResource extends Resource
 
                         Select::make('currency')
                             ->options([
-                                'inr' => 'INR',
+                                'NGN' => '₦',
                                 'usd' => 'USD',
                                 'EUR' => 'EUR',
                                 'GBP' => 'GBP',
@@ -178,7 +178,7 @@ class OrderResource extends Resource
                                     }
 
                                     $set('grand_total', $total);
-                                    return \Illuminate\Support\Number::currency($total, 'INR');
+                                    return \Illuminate\Support\Number::currency($total, '₦');
                                 }),
 
 
@@ -204,7 +204,7 @@ class OrderResource extends Resource
                     ->label('Grand Total')
                     ->numeric()
                     ->sortable()
-                    ->money('INR'),
+                    ->money('₦'),
 
                 TextColumn::make('payment_method')
                     ->label('Payment Method')

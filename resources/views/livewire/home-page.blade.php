@@ -2564,8 +2564,8 @@
 
 
       <div class="relative flex flex-col items-center ">
-        <h1 class="text-5xl font-bold dark:text-gray-200 pt-20 text-white text-center">Agency <span class="text-white">
-            Registration
+        <h1 class="text-5xl font-bold dark:text-gray-200 pt-20 text-white text-center">Contact <span class="text-white">
+            Us For Partnerships
           </span> </h1>
         <div class="flex w-40 mt-2 mb-2 overflow-hidden rounded">
           <div class="flex-1 h-2 bg-blue-200">
@@ -2714,7 +2714,7 @@
               </div>
               <div>
                 <h2 class="text-lg font-semibold text-gray-900 dark:text-gray-300">
-                  Adren Roy</h2>
+                  Mike  Pelumi</h2>
                 <p class="text-xs text-gray-500 dark:text-gray-400">Web Designer</p>
               </div>
             </div>
@@ -2810,11 +2810,11 @@
               </div>
               <div>
                 <h2 class="text-lg font-semibold text-gray-900 dark:text-gray-300">
-                  Sonira Roy</h2>
-                <p class="text-xs text-gray-500 dark:text-gray-400">Manager</p>
+                  Atanda Temitope</h2>
+                <p class="text-xs text-gray-500 dark:text-gray-400">Fruit Store Owner</p>
               </div>
             </div>
-            <p class="px-6 text-base font-medium text-gray-600 dark:text-gray-400"> Joined 12, SEP , 2022
+            <p class="px-6 text-base font-medium text-gray-600 dark:text-gray-400"> Joined 12, SEP , 2023
             </p>
           </div>
           <p class="px-6 mb-6 text-base text-gray-500 dark:text-gray-400">
@@ -2997,11 +2997,11 @@
               </div>
               <div>
                 <h2 class="text-lg font-semibold text-gray-900 dark:text-gray-300">
-                  Joy jack</h2>
-                <p class="text-xs text-gray-500 dark:text-gray-400">Java Programmer</p>
+                  Joy Michael</h2>
+                <p class="text-xs text-gray-500 dark:text-gray-400">Civil Servant</p>
               </div>
             </div>
-            <p class="px-6 text-base font-medium text-gray-600 dark:text-gray-400"> Joined 12, SEP , 2022
+            <p class="px-6 text-base font-medium text-gray-600 dark:text-gray-400"> Joined 12, SEP , 2024
             </p>
           </div>
           <p class="px-6 mb-6 text-base text-gray-500 dark:text-gray-400">

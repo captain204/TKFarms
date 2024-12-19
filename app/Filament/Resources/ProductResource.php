@@ -104,7 +104,7 @@ class ProductResource extends Resource
                         TextInput::make('price')
                             ->numeric()
                             ->required()
-                            ->prefix('INR')
+                            ->prefix('₦')
                     ]),
 
                     Section::make('Associations')->schema([
